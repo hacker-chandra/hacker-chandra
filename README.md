@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hacker-chandra
-- 👀 I’m interested in Cyber Security, Bug Hunting.
+- 👀 I’m interested in Cyber Security and Bug Hunting.
 - 🌱 I’m currently learning Bug Bounty, Ethical hacking.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me CEHv12, CEHv10
